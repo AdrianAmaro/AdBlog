@@ -21,7 +21,6 @@
       }else {
        $acao = "Cadastro.php";
       }
-
       ?>
 
 
@@ -36,11 +35,6 @@
     <div class="col-md-4 mb-3">
       <label>Senha</label>
       <input name="senha" type="password" placeholder="digite sua Senha" minlength="8" maxlength="12" required>
-    </div>
-
-    <div class="col-md-4 mb-3">
-      <label>Confirmar Senha</label>
-      <input name="senha2" type="password" placeholder="digite sua Senha" minlength="8" maxlength="12" required>
     </div>
 
     <div class="col-md-4 mb-3">
